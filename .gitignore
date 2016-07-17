@@ -1,3 +1,4 @@
 *.con
 /.vs
 /Build
+*.opendb
